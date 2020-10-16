@@ -1,0 +1,20 @@
+/* image d'accueil */
+.img-acc {
+    height: 550px;
+    background: url(../images/img-acc.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+/* texte d'accueil */
+.text-acc {
+    color: #f4e8d8;
+}
+.text-acc h1 {
+    font-family: 'Francois One', sans-serif;
+    font-size: 4em;
+    font-weight: bold;
+}
+.text-acc p {
+    font-family: 'Aleo', sans-serif;
+    font-size: 1.7em;
+    font-weight: bold;
+}
