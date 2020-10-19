@@ -1,0 +1,20 @@
+/* homepage coffee */
+.text-homepage {
+    background-color: #f4e8d8;
+    font-family: 'Aleo', sans-serif;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    color: #508186;
+    
+}
+
+@media screen and (max-width: 770px) {
+    #img-disp {
+        display: none;
+    }
+    #img-disp2 {
+        display: none;
+    }
+}
