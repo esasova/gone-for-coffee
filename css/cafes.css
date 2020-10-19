@@ -1,0 +1,45 @@
+/* cartes des cafes */
+.card-body h5 {
+    font-family: 'Francois One', sans-serif;
+    font-weight: bold;
+    color: #f4be6a;
+    
+}
+.card-body p {
+    font-family: 'Aleo', sans-serif;
+    color: #508186;
+    font-size: 1.2em;
+}
+
+/* specialités */
+.specials {
+    font-weight: lighter;
+    color: #508186;
+    padding-left: 0;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0;
+}
+.specials li {
+    display: inline;
+    background-color: #f4e8d8;
+    border-radius: 15%;
+    padding: 1%;
+}
+
+@media screen and (max-width: 770px) {
+    .specials li {
+        margin: 1%;
+    }
+
+}
+
+
+/* adress */
+.adress {
+    font-family: 'Francois One', sans-serif;
+    color: #508186;
+    padding-top: 5%;
+    margin-bottom: 0;
+    text-align: end;
+}
