@@ -4,6 +4,15 @@
     background: url(../images/img-acc.jpg) no-repeat center center fixed;
     background-size: cover;
 }
+/* menu */
+
+.navbar-nav a {
+    font-family: 'Aleo', sans-serif;
+    color: #508186; 
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
 /* texte d'accueil */
 .text-acc {
     color: #f4e8d8;
@@ -17,4 +26,25 @@
     font-family: 'Aleo', sans-serif;
     font-size: 1.7em;
     font-weight: bold;
+}
+
+/* footer */
+footer {
+    height: 150px;
+    background-color: #508186;
+    color:  #f4be6a;
+    font-family: 'Aleo', sans-serif;
+    font-weight: bold;
+}
+footer ul {
+    list-style: none;
+}
+
+@media screen and (max-width: 760px) {
+    footer a {
+        display: none;
+    }
+    footer ul {
+        display: none;
+    }
 }
