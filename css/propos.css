@@ -1,0 +1,20 @@
+/* section café */
+
+.text-love-coffee {
+    background-color: #f4e8d8;
+    color: #508186;
+    font-size: 1.3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.text-love-coffee h2 {
+    font-family: 'François One', sans-serif;
+    padding: 1%;
+    font-weight: bold;
+    color: #f4be6a;
+}
+.text-love-coffee p {
+    font-family: 'Aleo', sans-serif;
+    font-weight: 600;
+}
