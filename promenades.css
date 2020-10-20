@@ -1,0 +1,16 @@
+.text-balade {
+    background-color: #f4e8d8;
+    color: #508186;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.km {
+    background-color: #508186;
+    padding: 1%;
+    border-radius: 50%;
+    color: #f4be6a;font-weight: bold;
+    font-family: 'Francois One', sans-serif;
+    text-align: center;
+}
