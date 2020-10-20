@@ -1,0 +1,13 @@
+main {
+    font-family: 'Aleo', sans-serif;
+    font-size: 1.2em;
+    color: #508186;
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+@media screen and (min-height: 1200px) {
+    main {
+        height: 47vh;
+    }
+}
