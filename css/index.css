@@ -39,6 +39,19 @@ footer {
 footer ul {
     list-style: none;
 }
+footer a {
+    color:  #f4be6a;
+    font-family: 'Aleo', sans-serif;
+    font-weight: bold;
+}
+footer button {
+    background-color: #f4e8d8;
+    color: #508186;
+    font-family: 'Aleo';
+    font-weight: bold;
+    border-radius: 5%;
+    margin-top: 1%;
+}
 
 @media screen and (max-width: 760px) {
     footer a {
