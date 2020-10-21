@@ -19,6 +19,9 @@
     font-weight: bold;
     color: #f4be6a;
 }
+.english {
+    font-style: italic;
+}
 .km {
     background-color: #508186;
     padding: 1%;
