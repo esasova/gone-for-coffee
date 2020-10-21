@@ -62,3 +62,9 @@ footer button {
         display: none;
     }
 }
+
+@media screen and (max-width: 330px) {
+    .text-acc h1 {
+        font-size: 3em;
+    }
+}
