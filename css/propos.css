@@ -16,5 +16,9 @@
 }
 .text-love-coffee p {
     font-family: 'Aleo', sans-serif;
-    font-weight: 600;
+}
+.text-love-coffee span {
+    font-weight: bold;
+    color: #f4be6a;
+
 }

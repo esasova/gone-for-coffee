@@ -1,6 +1,6 @@
 /* image d'accueil */
 .img-acc {
-    height: 550px;
+    height: 70%;
     background: url(../images/img-acc.jpg) no-repeat center center fixed;
     background-size: cover;
 }
@@ -16,6 +16,7 @@
 /* texte d'accueil */
 .text-acc {
     color: #f4e8d8;
+    padding: 10%;
 }
 .text-acc h1 {
     font-family: 'Francois One', sans-serif;

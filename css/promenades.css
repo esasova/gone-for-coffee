@@ -1,16 +1,33 @@
 .text-balade {
     background-color: #f4e8d8;
     color: #508186;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     
+}
+.text-balade h2 {
+    font-family: 'Francois One', sans-serif;
+}
+.text-balade p {
+    margin: 1%;
+    margin-bottom: 0;
+    text-indent: 2%;
+    font-family: 'Aleo', sans-serif;
+    text-align: justify;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+.text-balade p span {
+    font-weight: bold;
+    color: #f4be6a;
 }
 .km {
     background-color: #508186;
     padding: 1%;
     border-radius: 50%;
-    color: #f4be6a;font-weight: bold;
+    color: #f4be6a;
+    font-weight: bold;
     font-family: 'Francois One', sans-serif;
     text-align: center;
+}
+@media screen and (max-width: 375px) {
+    
 }
