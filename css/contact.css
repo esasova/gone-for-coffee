@@ -9,8 +9,8 @@ main {
 main button {
     background-color: #508186;
     color:  #f4be6a;
-    font-family: 'Francois One', sans-serif;
-    border-radius: 10%;
+    font-family: 'Aleo', sans-serif;
+    border-radius: 5%;
 }
 
 @media screen and (min-height: 1200px) {
