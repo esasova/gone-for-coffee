@@ -6,6 +6,12 @@ main {
     margin-top: 3%;
 }
 
+main button {
+    background-color: #508186;
+    color:  #f4be6a;
+    font-family: 'Francois One', sans-serif;
+    border-radius: 10%;
+}
 
 @media screen and (min-height: 1200px) {
     main {
